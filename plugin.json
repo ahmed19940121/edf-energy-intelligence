@@ -1,9 +1,0 @@
-{
-  "name": "edf-energy-intelligence",
-  "version": "1.2.0",
-  "description": "EDF Energy consumer intelligence: live tariff rates for Go Electric, Empower Tracker, FreePhase Dynamic and all EDF smart tariffs. EV charging optimisation, time-of-use scheduling, tariff comparison, and optional smart meter consumption analytics. Powered by the EDF Energy Kraken API.",
-  "author": {
-    "name": "nurry"
-  },
-  "keywords": ["edf", "energy", "electricity", "tariff", "ev-charging", "go-electric", "empower-tracker", "freephase", "smart-meter", "time-of-use"]
-}
